@@ -41,9 +41,9 @@
     <link href="http://example.com/2022/09/07/TypeScript/"/>
     <id>http://example.com/2022/09/07/TypeScript/</id>
     <published>2022-09-07T02:57:44.000Z</published>
-    <updated>2022-09-08T08:01:03.490Z</updated>
+    <updated>2022-09-08T08:16:54.400Z</updated>
     
-    <content type="html"><![CDATA[<p>最近看了一些ts的语法，觉得有点陌生，经过一番搜索发现之前看的中文文档版本落后了很多。。。嗨，现在对着英文文档再回顾一下吧</p><span id="more"></span><p>先测试一下CI是否成功，删除cp theme文件的命令。ceshi??</p>]]></content>
+    <content type="html"><![CDATA[<p>最近看了一些ts的语法，觉得有点陌生，经过一番搜索发现之前看的中文文档版本落后了很多。。。嗨，现在对着英文文档再回顾一下吧</p><span id="more"></span><p>先测试一下CI是否成功，删除cp theme文件的命令。ceshi?</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;最近看了一些ts的语法，觉得有点陌生，经过一番搜索发现之前看的中文文档版本落后了很多。。。嗨，现在对着英文文档再回顾一下吧&lt;/p&gt;</summary>
@@ -55,9 +55,9 @@
     <category term="TypeScript" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/TypeScript/"/>
     
     
-    <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="ts" scheme="http://example.com/tags/ts/"/>
+    
+    <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
